@@ -86,7 +86,7 @@ It is not just a tool — it's an intelligent ecosystem that allows teams to con
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/pravallika4218/smartsdlc.git
+   https://github.com/SKMAHABOOBSUBHANI-810/SmartSDLC-AI-Enhanced-Software-Development-Lifecycle
    cd smartsdlc
 Create and activate a virtual environment
 
